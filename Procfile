@@ -1,1 +1,1 @@
-Mukesh: python3 Plugins
+Mukesh: python3 -m Plugins
