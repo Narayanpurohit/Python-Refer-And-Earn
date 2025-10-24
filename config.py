@@ -4,7 +4,7 @@ from pyrogram.types import KeyboardButton, InlineKeyboardMarkup,InlineKeyboardBu
 #get from https://my.telegram.org/auth
 API_ID:int =(os.environ.get("API_ID",21714376))
 API_HASH:str = os.environ.get("API_HASH", "700092e37d7da9a7b781994b7503a4")
-BOT_TOKEN:str = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN:str = os.environ.get("BOT_TOKEN", "6420356438:AAEZCItHjzerPRBpHYUTP9746Gbc4DrPIB0")
 
 
 REFER_BONUS=int(1)
